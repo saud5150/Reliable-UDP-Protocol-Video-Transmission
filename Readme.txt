@@ -5,3 +5,5 @@ Command Lines:
   receiver:
 	gcc VideoReceiver.c -o recv
 	./recv outfile.mp4 15055
+
+### Also works for .mp3 files ###
